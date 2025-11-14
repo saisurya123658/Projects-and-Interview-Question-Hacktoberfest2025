@@ -1,0 +1,23 @@
+# Top 20 Computer Networks Interview Questions – NAT (Network Address Translation)
+
+1. What is NAT?
+2. Why is NAT used in networks?
+3. Difference between private and public IP addresses?
+4. What are the types of NAT?
+5. What is Static NAT?
+6. What is Dynamic NAT?
+7. What is PAT (Port Address Translation)?
+8. Difference between NAT and PAT?
+9. What is NAT Overload?
+10. How does NAT improve security?
+11. What are the disadvantages of NAT?
+12. What is inside local vs inside global address?
+13. What is outside local vs outside global address?
+14. How does NAT work step-by-step?
+15. What protocols break or fail with NAT?
+16. What is NAT traversal?
+17. What is STUN protocol?
+18. What is UPnP related to NAT?
+19. How does NAT affect peer-to-peer connections?
+20. Real-time examples of NAT usage?
+21. Why is NAT not required in IPv6?
