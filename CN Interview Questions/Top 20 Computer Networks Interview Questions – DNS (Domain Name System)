@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – DNS (Domain Name System)
+
+1. What is DNS?
+2. Why is DNS needed?
+3. What is a domain name?
+4. What is a DNS resolver?
+5. What are DNS records?
+6. Explain A, AAAA, CNAME, MX, NS, TXT records.
+7. What is an authoritative DNS server?
+8. What is a recursive DNS server?
+9. What is DNS caching?
+10. What is TTL in DNS?
+11. How does DNS resolution work step-by-step?
+12. What is reverse DNS lookup?
+13. What is DNS zone?
+14. What is zone transfer in DNS?
+15. What is DNS propagation?
+16. What is DNS poisoning?
+17. What is DNS spoofing?
+18. How to protect DNS from attacks?
+19. What is DNS over HTTPS (DoH)?
+20. Difference between DNS and DHCP?
