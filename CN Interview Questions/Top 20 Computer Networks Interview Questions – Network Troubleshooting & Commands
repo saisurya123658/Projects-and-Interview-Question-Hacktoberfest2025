@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – Network Troubleshooting & Commands
+
+1. What is network troubleshooting?
+2. What are the first steps in diagnosing a network issue?
+3. What is the use of the `ping` command?
+4. What is the use of the `traceroute` / `tracert` command?
+5. What is the `ipconfig` / `ifconfig` command used for?
+6. What is the `arp -a` command used for?
+7. What does `netstat` show?
+8. What is `nslookup` used for?
+9. What is the `route` command?
+10. How do you check open ports?
+11. What is packet loss and how do you detect it?
+12. What is latency and how do you measure it?
+13. What is DNS failure and how do you fix it?
+14. What is `telnet` used for in troubleshooting?
+15. What is `curl` used for?
+16. How to detect duplicate IP issues?
+17. What is Wireshark and why is it used?
+18. How do you identify a network bottleneck?
+19. What tools are used for bandwidth testing?
+20. What are common network troubleshooting steps?
