@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – DHCP (Dynamic Host Configuration Protocol)
+
+1. What is DHCP?
+2. Why is DHCP used?
+3. What is the DHCP process?
+4. Explain DORA (Discover, Offer, Request, Acknowledge).
+5. What is a DHCP lease?
+6. What is lease renewal?
+7. What is a DHCP scope?
+8. What is a DHCP reservation?
+9. Difference between static IP and dynamic IP?
+10. What is a DHCP relay agent?
+11. What happens if DHCP server is down?
+12. What is APIPA (Automatic Private IP Addressing)?
+13. What ports does DHCP use?
+14. What is DHCP starvation attack?
+15. What is DHCP spoofing?
+16. How to secure DHCP?
+17. What is the difference between DHCPv4 and DHCPv6?
+18. What is IAID in DHCPv6?
+19. What is prefix delegation?
+20. Real-life examples of DHCP usage.
