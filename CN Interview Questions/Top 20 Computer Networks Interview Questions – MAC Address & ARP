@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – MAC Address & ARP
+
+1. What is a MAC address?
+2. Why is a MAC address 48 bits long?
+3. What is the difference between MAC and IP address?
+4. What is ARP (Address Resolution Protocol)?
+5. Why do we need ARP?
+6. How does ARP work step-by-step?
+7. What is ARP request and ARP reply?
+8. What is ARP cache?
+9. What is ARP spoofing?
+10. What is ARP poisoning?
+11. How to prevent ARP attacks?
+12. What is RARP (Reverse ARP)?
+13. What is the difference between ARP and RARP?
+14. What is Proxy ARP?
+15. What is Gratuitous ARP?
+16. What happens when ARP fails?
+17. Can ARP work with IPv6?
+18. What protocol is used instead of ARP in IPv6?
+19. How does ARP fit in the OSI Model?
+20. Give real-time examples of ARP usage.
