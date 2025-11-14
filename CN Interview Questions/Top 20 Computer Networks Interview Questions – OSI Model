@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – OSI Model
+
+1. What is the OSI Model?
+2. Why was the OSI Model developed?
+3. Name all 7 layers of the OSI Model.
+4. What is the role of the Physical Layer?
+5. What is the role of the Data Link Layer?
+6. What is MAC addressing?
+7. What is the difference between LLC and MAC sublayers?
+8. What is the role of the Network Layer?
+9. What is the difference between routing and forwarding?
+10. What is the role of the Transport Layer?
+11. Difference between TCP and UDP?
+12. What is multiplexing?
+13. What is the role of the Session Layer?
+14. What is the role of the Presentation Layer?
+15. What is data encapsulation?
+16. What is decapsulation?
+17. What is PDU? List PDU names for all OSI layers.
+18. What are protocols used in each OSI layer?
+19. How OSI Model helps in troubleshooting?
+20. What is the difference between OSI and TCP/IP models?
