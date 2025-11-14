@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – TCP/IP Model
+
+1. What is the TCP/IP Model?
+2. How many layers does the TCP/IP model have?
+3. What are the layers of the TCP/IP Model?
+4. Difference between OSI and TCP/IP model?
+5. What is the Application Layer in TCP/IP?
+6. What protocols work in the Application Layer?
+7. What is the Transport Layer in TCP/IP?
+8. Difference between TCP and UDP?
+9. What is a port number?
+10. What is a socket?
+11. What is flow control?
+12. What is congestion control?
+13. What is the Network Layer in TCP/IP?
+14. What is IP addressing?
+15. Difference between IPv4 and IPv6?
+16. What is ICMP?
+17. What is ARP and how does it work?
+18. What is RARP?
+19. What is the Link Layer?
+20. How does data encapsulation work in TCP/IP?
