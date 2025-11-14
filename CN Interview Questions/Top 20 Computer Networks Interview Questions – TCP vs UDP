@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – TCP vs UDP
+
+1. What is TCP?
+2. What is UDP?
+3. Difference between TCP and UDP?
+4. Why is TCP called connection-oriented?
+5. Why is UDP called connectionless?
+6. What is a 3-way handshake in TCP?
+7. What is a 4-way termination in TCP?
+8. What is reliability in TCP?
+9. Why is UDP faster than TCP?
+10. What applications use TCP?
+11. What applications use UDP?
+12. What is flow control in TCP?
+13. What is congestion control?
+14. What is sliding window protocol?
+15. What is MSS (Maximum Segment Size)?
+16. What is MTU (Maximum Transmission Unit)?
+17. What is checksum?
+18. What is TCP retransmission?
+19. What is UDP checksum?
+20. When would you choose TCP over UDP?
