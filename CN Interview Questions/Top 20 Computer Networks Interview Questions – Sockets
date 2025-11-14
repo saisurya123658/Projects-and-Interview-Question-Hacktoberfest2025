@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – Sockets
+
+1. What is a socket?
+2. What are the types of sockets?
+3. What is the difference between stream and datagram sockets?
+4. What is a port number?
+5. How does a socket connection work?
+6. What is bind()?
+7. What is listen()?
+8. What is accept()?
+9. What is connect()?
+10. What is send() and recv()?
+11. What is socket timeout?
+12. What is blocking vs non-blocking socket?
+13. What is multiplexing?
+14. What is select() system call?
+15. What is poll()?
+16. What is epoll()?
+17. What is a socket buffer?
+18. What is half-open TCP connection?
+19. What are well-known ports?
+20. Real-time examples of socket programming.
