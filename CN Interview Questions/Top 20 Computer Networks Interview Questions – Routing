@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – Routing
+
+1. What is routing?
+2. Difference between routing and forwarding?
+3. What is a routing table?
+4. What is static routing?
+5. What is dynamic routing?
+6. Difference between static and dynamic routing?
+7. What is a routing protocol?
+8. Difference between distance vector and link state routing?
+9. What is RIP (Routing Information Protocol)?
+10. What is OSPF (Open Shortest Path First)?
+11. What is BGP (Border Gateway Protocol)?
+12. Difference between OSPF and RIP?
+13. Difference between IGP and EGP?
+14. What is default route?
+15. What is route aggregation (supernetting)?
+16. What is hop count?
+17. What is administrative distance?
+18. What is routing loop?
+19. What is split horizon?
+20. What is route poisoning?
