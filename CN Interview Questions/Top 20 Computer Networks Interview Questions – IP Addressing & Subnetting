@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – IP Addressing & Subnetting
+
+1. What is an IP address?
+2. Difference between IPv4 and IPv6?
+3. What are the classes of IPv4 addresses?
+4. What is a subnet?
+5. What is subnet mask?
+6. What is CIDR (Classless Inter-Domain Routing)?
+7. What is VLSM (Variable Length Subnet Masking)?
+8. How do you calculate number of hosts in a subnet?
+9. What is network ID and host ID?
+10. What is broadcast address?
+11. What is private IP vs public IP?
+12. What is APIPA?
+13. What is loopback address?
+14. What is default gateway?
+15. What is NAT and why is it used?
+16. What is port forwarding?
+17. What is dual-stack IP?
+18. How does subnetting improve network performance?
+19. What tools are used for subnetting?
+20. Give real-time examples of subnetting usage.
