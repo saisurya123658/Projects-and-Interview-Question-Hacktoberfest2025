@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – Switching (Hub vs Switch vs Router)
+
+1. What is switching in computer networks?
+2. Difference between hub, switch, and router?
+3. What is circuit switching?
+4. What is packet switching?
+5. What is message switching?
+6. What is store-and-forward switching?
+7. What is cut-through switching?
+8. What is a switching table?
+9. What is MAC learning in switches?
+10. What is collision domain?
+11. What is broadcast domain?
+12. How do switches reduce collisions?
+13. What is VLAN?
+14. What is trunking?
+15. What is STP (Spanning Tree Protocol)?
+16. What is switch flooding?
+17. What is port security?
+18. What is router-on-a-stick configuration?
+19. How routers perform packet forwarding?
+20. Real-time examples of hub, switch, and router usage.
