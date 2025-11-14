@@ -1,0 +1,22 @@
+# Top 20 Computer Networks Interview Questions – Congestion Control & Flow Control
+
+1. What is congestion in networks?
+2. What causes congestion?
+3. Difference between congestion control and flow control?
+4. What is TCP congestion control?
+5. Explain Slow Start.
+6. What is Congestion Avoidance?
+7. What is Fast Retransmit?
+8. What is Fast Recovery?
+9. What is AIMD (Additive Increase Multiplicative Decrease)?
+10. What is RTT (Round Trip Time)?
+11. What is cwnd (congestion window)?
+12. What is rwnd (receiver window)?
+13. What is flow control in TCP?
+14. What is sliding window protocol?
+15. What is stop-and-wait protocol?
+16. What is GO-BACK-N protocol?
+17. What is Selective Repeat protocol?
+18. What is buffer overflow in networks?
+19. How routers manage congestion?
+20. Real-time examples of congestion and flow control?
