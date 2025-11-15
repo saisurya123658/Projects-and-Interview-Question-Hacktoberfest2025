@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Keys in DBMS
+
+1. What is a key in DBMS?
+2. What is a super key?
+3. What is a candidate key?
+4. What is a primary key?
+5. What is a composite key?
+6. What is a unique key?
+7. What is a foreign key?
+8. Difference between primary key and unique key?
+9. Difference between primary key and foreign key?
+10. What is an alternate key?
+11. What is a surrogate key?
+12. What is a natural key?
+13. Can a table have multiple primary keys?
+14. Can a primary key accept null values?
+15. Can a foreign key accept null values?
+16. What is referential integrity?
+17. What are cascading actions (ON DELETE, ON UPDATE)?
+18. What is self-referencing foreign key?
+19. What is a partial key?
+20. Real-time examples of different types of keys.
