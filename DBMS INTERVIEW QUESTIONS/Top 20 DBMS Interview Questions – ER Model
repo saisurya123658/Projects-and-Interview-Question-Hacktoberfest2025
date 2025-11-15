@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – ER Model
+
+1. What is an ER Model?
+2. Why is the ER Model used?
+3. What is an entity?
+4. What is an entity set?
+5. What is an attribute?
+6. What are the different types of attributes (simple, composite, multivalued, derived)?
+7. What is a primary key attribute?
+8. What is a relationship?
+9. What are the types of relationships (1:1, 1:N, M:N)?
+10. What is a weak entity?
+11. Difference between strong and weak entity?
+12. What is cardinality in ER diagrams?
+13. What is participation constraint (total/partial)?
+14. What is a key attribute?
+15. What is generalization?
+16. What is specialization?
+17. What is aggregation in ER model?
+18. What symbols are used in ER diagrams?
+19. Difference between ER Model and Relational Model?
+20. Real-time examples of ER diagrams?
