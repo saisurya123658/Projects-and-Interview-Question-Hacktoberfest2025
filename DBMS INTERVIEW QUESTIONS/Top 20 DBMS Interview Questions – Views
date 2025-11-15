@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Views
+
+1. What is a view in SQL?
+2. Why are views used?
+3. What is a virtual table?
+4. What is the difference between a table and a view?
+5. What is a simple view?
+6. What is a complex view?
+7. What is a materialized view?
+8. Difference between view and materialized view?
+9. Can we update a view?
+10. What is an updatable view?
+11. What is WITH CHECK OPTION in views?
+12. What are the advantages of using views?
+13. What are the limitations of views?
+14. Can a view be indexed?
+15. Can a view call another view?
+16. What is schema binding?
+17. How do views impact performance?
+18. Can views be used for security?
+19. Real-time examples of using views?
+20. How to optimize view performance?
