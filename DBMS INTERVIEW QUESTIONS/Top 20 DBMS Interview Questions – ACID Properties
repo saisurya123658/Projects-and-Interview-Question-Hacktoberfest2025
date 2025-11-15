@@ -1,0 +1,19 @@
+# Top 20 DBMS Interview Questions – ACID Properties
+
+1. What are ACID properties?
+2. What is Atomicity?
+3. What is Consistency?
+4. What is Isolation?
+5. What is Durability?
+6. Why are ACID properties important?
+7. What happens if Atomicity is violated?
+8. What happens if Consistency is violated?
+9. What happens if Isolation is violated?
+10. What happens if Durability is violated?
+11. What is a consistency constraint?
+12. How does DBMS ensure durability?
+13. What is WAL (Write-Ahead Logging)?
+14. What is shadow paging?
+15. What is strict 2PL in isolation?
+16. What is snapshot isolation?
+17. What is read committed isolation?
