@@ -1,0 +1,23 @@
+# Top 20 DBMS Interview Questions – Relational Algebra
+
+1. What is relational algebra?
+2. Why is relational algebra important in DBMS?
+3. What are basic operations in relational algebra?
+4. What is selection (σ)?
+5. What is projection (π)?
+6. What is union (∪)?
+7. What is set difference (-)?
+8. What is Cartesian product (×)?
+9. What is rename (ρ)?
+10. What is intersection?
+11. What is join operation?
+12. What is theta join?
+13. What is equi-join?
+14. What is natural join?
+15. What is outer join?
+16. What is division operation?
+17. What is aggregation operation?
+18. What is the difference between relational algebra and SQL?
+19. What is tuple relational calculus?
+20. What is domain relational calculus?
+21. Real-time examples of relational algebra operations.
