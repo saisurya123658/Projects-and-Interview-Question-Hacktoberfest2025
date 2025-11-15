@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Relational Model
+
+1. What is the Relational Model?
+2. Who introduced the relational model?
+3. What is a relation?
+4. What is a tuple?
+5. What is an attribute?
+6. What is a domain in a relation?
+7. What is a schema?
+8. What is an instance of a table?
+9. What is a primary key?
+10. What is a candidate key?
+11. What is a super key?
+12. What is a foreign key?
+13. What is referential integrity?
+14. What is a relation degree and cardinality?
+15. What is a null value in DBMS?
+16. What are integrity constraints?
+17. What is the difference between relation and table?
+18. What operations are allowed in a relational model?
+19. Why is relational model widely used?
+20. Real-world examples of relational databases.
