@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – SQL Subqueries
+
+1. What is a subquery?
+2. Why are subqueries used?
+3. What is a nested subquery?
+4. What is a correlated subquery?
+5. Difference between nested and correlated subquery?
+6. What is an inline view?
+7. What is EXISTS keyword?
+8. What is NOT EXISTS?
+9. Difference between IN and EXISTS?
+10. What is ANY keyword?
+11. What is ALL keyword?
+12. Can subqueries return multiple columns?
+13. Can subqueries be used in SELECT clause?
+14. Can subqueries be used in WHERE clause?
+15. What is scalar subquery?
+16. What is row subquery?
+17. What is table subquery?
+18. What are the limitations of subqueries?
+19. How to optimize subqueries?
+20. Real-world examples of subqueries.
