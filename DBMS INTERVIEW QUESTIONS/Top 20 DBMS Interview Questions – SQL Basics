@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – SQL Basics
+
+1. What is SQL?
+2. What are the different categories of SQL commands?
+3. What is DDL?
+4. What is DML?
+5. What is DCL?
+6. What is TCL?
+7. What is the difference between DELETE, TRUNCATE, and DROP?
+8. What is a primary key in SQL?
+9. What is a foreign key?
+10. What is a unique constraint?
+11. What is NOT NULL constraint?
+12. What is a CHECK constraint?
+13. What is DEFAULT constraint?
+14. What is the difference between WHERE and HAVING?
+15. What is ORDER BY?
+16. What is GROUP BY?
+17. What is DISTINCT keyword?
+18. What is LIKE operator?
+19. What are wildcards in SQL?
+20. What is the difference between SQL and NoSQL?
