@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Indexing
+
+1. What is an index in DBMS?
+2. Why are indexes used?
+3. What is the difference between clustered and non-clustered index?
+4. What is a primary index?
+5. What is a secondary index?
+6. What is a unique index?
+7. What is a composite index?
+8. What is a dense index?
+9. What is a sparse index?
+10. What is B-Tree index?
+11. What is B+ Tree index?
+12. Difference between B-Tree and B+ Tree?
+13. What is hashing index?
+14. When should you avoid using indexes?
+15. What is index selectivity?
+16. What is an index scan?
+17. What is a table scan?
+18. Why do indexes improve performance?
+19. What are disadvantages of indexes?
+20. Real-time examples of indexing usage.
