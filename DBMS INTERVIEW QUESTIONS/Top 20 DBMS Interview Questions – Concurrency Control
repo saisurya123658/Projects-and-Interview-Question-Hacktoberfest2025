@@ -1,1 +1,22 @@
-Top 20 DBMS Interview Questions – Concurrency Control
+# Top 20 DBMS Interview Questions – Concurrency Control
+
+1. What is concurrency control in DBMS?
+2. Why is concurrency control needed?
+3. What is a race condition in DBMS?
+4. What are concurrency anomalies?
+5. What is lost update problem?
+6. What is dirty read?
+7. What is non-repeatable read?
+8. What is phantom read?
+9. What is locking in DBMS?
+10. What is shared lock and exclusive lock?
+11. What is two-phase locking (2PL)?
+12. What is strict 2PL?
+13. What is deadlock in concurrency control?
+14. What is timestamp ordering protocol?
+15. What is optimistic concurrency control?
+16. What is multiversion concurrency control (MVCC)?
+17. What is lock granularity?
+18. What is starvation in DBMS?
+19. What is wound-wait and wait-die scheme?
+20. Real-time examples of concurrency control.
