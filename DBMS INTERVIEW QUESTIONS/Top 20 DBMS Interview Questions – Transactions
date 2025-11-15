@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Transactions
+
+1. What is a transaction in DBMS?
+2. What are the properties of a transaction?
+3. What is a transaction state?
+4. What is commit?
+5. What is rollback?
+6. What is a savepoint?
+7. What is a transaction log?
+8. What is write-ahead logging (WAL)?
+9. What is a dirty read?
+10. What is a non-repeatable read?
+11. What is phantom read?
+12. Difference between atomicity and durability?
+13. What is serializability?
+14. What is schedule in DBMS?
+15. What is conflict serializability?
+16. What is view serializability?
+17. What is cascading abort?
+18. What is a deadlock in transactions?
+19. How are transactions isolated?
+20. Real-world examples of transactions.
