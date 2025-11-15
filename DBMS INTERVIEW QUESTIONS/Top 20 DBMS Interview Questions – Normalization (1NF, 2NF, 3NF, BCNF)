@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Normalization (1NF, 2NF, 3NF, BCNF)
+
+1. What is normalization?
+2. Why is normalization needed in DBMS?
+3. What problems occur without normalization?
+4. What is 1NF (First Normal Form)?
+5. What is 2NF (Second Normal Form)?
+6. What is 3NF (Third Normal Form)?
+7. What is BCNF (Boyce-Codd Normal Form)?
+8. Difference between 3NF and BCNF?
+9. What is a partial dependency?
+10. What is a transitive dependency?
+11. What is denormalization?
+12. When is denormalization preferred?
+13. What is lossless decomposition?
+14. What is lossy decomposition?
+15. What is dependency preservation?
+16. What are anomalies (Update, Insert, Delete anomalies)?
+17. What is 4NF (Fourth Normal Form)?
+18. What is 5NF (Fifth Normal Form)?
+19. Why do we rarely use 4NF and 5NF in real-world applications?
+20. Give real-time examples of normalization.
