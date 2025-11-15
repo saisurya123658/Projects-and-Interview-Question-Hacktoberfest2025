@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – SQL Joins
+
+1. What is a join in SQL?
+2. Why are joins used?
+3. What is INNER JOIN?
+4. What is LEFT JOIN?
+5. What is RIGHT JOIN?
+6. What is FULL OUTER JOIN?
+7. What is CROSS JOIN?
+8. What is SELF JOIN?
+9. What is NATURAL JOIN?
+10. Difference between INNER JOIN and OUTER JOIN?
+11. What is an equi-join?
+12. What is a non-equi join?
+13. What is a theta join?
+14. What is USING clause in joins?
+15. What is ON clause in joins?
+16. What happens if join condition is missing?
+17. Can we join more than two tables?
+18. Difference between JOIN and UNION?
+19. How to optimize join performance?
+20. Real-time examples of SQL joins.
