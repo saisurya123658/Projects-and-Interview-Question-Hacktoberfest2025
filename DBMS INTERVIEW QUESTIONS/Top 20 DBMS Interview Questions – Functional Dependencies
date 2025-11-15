@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Functional Dependencies
+
+1. What is a functional dependency?
+2. Why are functional dependencies important?
+3. What is determinant in FD?
+4. What is trivial functional dependency?
+5. What is non-trivial functional dependency?
+6. What is a partial dependency?
+7. What is a transitive dependency?
+8. What is closure of a set of attributes?
+9. What is closure of a functional dependency set?
+10. What is candidate key in terms of FDs?
+11. What are Armstrong's axioms?
+12. How do Armstrong's axioms help in deriving new FDs?
+13. What is minimal cover?
+14. What is canonical cover?
+15. What is decomposition in DBMS?
+16. Difference between lossless and lossy decomposition?
+17. How do FDs help in normalization?
+18. What is dependency preservation?
+19. Real-time examples of FDs?
+20. What issues arise from bad functional dependencies?
