@@ -1,0 +1,22 @@
+# Top 20 DBMS Interview Questions – Deadlocks in DBMS
+
+1. What is a deadlock in DBMS?
+2. What are the necessary conditions for deadlock?
+3. What is mutual exclusion?
+4. What is hold and wait?
+5. What is no preemption?
+6. What is circular wait?
+7. What is deadlock prevention?
+8. What is deadlock avoidance?
+9. What is deadlock detection?
+10. What is wait-for graph?
+11. What is resource allocation graph?
+12. What is deadlock recovery?
+13. What is victim selection?
+14. What is rollback in deadlock recovery?
+15. What is starvation in deadlocks?
+16. Difference between deadlock and starvation?
+17. What is timeout-based deadlock handling?
+18. Real-time examples of deadlock in databases?
+19. How do DBMS systems detect deadlocks automatically?
+20. How to minimize deadlocks in real systems?
